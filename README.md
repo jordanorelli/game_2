@@ -6,3 +6,8 @@ browser to read it.  It may be handy if you're writing some AS3 and want to see
 a basic game loop, but... it's really, really, really primitive, and I wrote it
 before I had any real-world experience, so... it's pretty awful code, to be
 honest.
+
+A working version of the game can be found
+[here](http://jordanorelli.com/media/flash/game_2.swf).  There's a known bug
+where the enemy spawn rate doesn't reset after you die; if you go through a few
+lives it becomes impossible very quickly.
